@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477817715497",
+    "firebase_url": "https://react-native-guide-abdab.firebaseio.com",
+    "project_id": "react-native-guide-abdab",
+    "storage_bucket": "react-native-guide-abdab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477817715497:android:1dbc0c6f8fd52620a7d538",
+        "android_client_info": {
+          "package_name": "com.android.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477817715497-41gmfd17spimrns057cp6hq4mm0cqj02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMtgUkWfdJNAh7W4nnhLeyhpl1BIY8nYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477817715497-41gmfd17spimrns057cp6hq4mm0cqj02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
